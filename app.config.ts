@@ -7,13 +7,6 @@ export default defineAppConfig({
       twitter: 'Zono_Hub',
       github: 'Zono-Bot',
     },
-    github: {
-      dir: '.starters/default/content',
-      branch: 'main',
-      repo: 'docus',
-      owner: 'nuxt-themes',
-      edit: true
-    },
     aside: {
       level: 0,
       collapsed: false,
@@ -24,7 +17,7 @@ export default defineAppConfig({
       fluid: true
     },
     header: {
-      logo: true,
+      logo: false,
       showLinkIcon: true,
       exclude: [],
       fluid: true
