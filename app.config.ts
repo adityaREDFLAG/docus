@@ -2,7 +2,7 @@ export default defineAppConfig({
   docus: {
     title: 'Zono',
     description: 'You Say We Do.',
-    image: './public/favicon.png',
+    image: './public/favicon.ico',
     socials: {
       twitter: 'Zono_Hub',
       github: 'Zono-Bot',
